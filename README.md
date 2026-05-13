@@ -1,7 +1,8 @@
 # 📘 Mock Authentication System — React + Vite
 
 A fully functional React auth flow (Register → Login → Profile) built with **Vite + React**, styled with Bootstrap, and using **`localStorage` as MY-STORAGE**.
-This project demonstrates reusable components, state management, navigation, and protected routes without a backend.
+<p>This project demonstrates reusable components, state management, navigation, and protected routes without a backend.</p>
+
 ---
 
 ## 📁 Project Structure
